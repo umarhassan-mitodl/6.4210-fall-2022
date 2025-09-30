@@ -1,0 +1,9 @@
+leftnav:
+- identifier: 62ba99c4-2e12-4759-8a89-5737053bda9e
+  name: Fall 2022 Course
+  pageRef: /external-resources/fall-2022-course_62ba99c4-2e12-4759-8a89-5737053bda9e
+  weight: 10
+- identifier: 1b1229f5-c8f8-4ccf-927d-96c7957b1db4
+  name: Online Textbook
+  pageRef: /external-resources/online-textbook_1b1229f5-c8f8-4ccf-927d-96c7957b1db4
+  weight: 20
